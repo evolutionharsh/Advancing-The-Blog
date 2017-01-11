@@ -1,0 +1,4 @@
+#!c:\setup\venv\scripts\python.exe
+import newsletter.newsletterapp.newsletterapp
+
+newsletter.newsletterapp.newsletterapp.main()
